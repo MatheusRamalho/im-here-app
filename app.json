@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rocketseat-ignite-im-here-app3",
-    "slug": "rocketseat-ignite-im-here-app3",
+    "name": "rocketseat-ignite-im-here-app",
+    "slug": "rocketseat-ignite-im-here-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
