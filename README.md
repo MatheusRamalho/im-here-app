@@ -7,7 +7,7 @@
 <br />
 
 
-[![preview](https://img.youtube.com/vi/TOKEN/maxresdefault.jpg)](https://github.com/MatheusRamalho/im-here-app/blob/main/.github/video.mp4)
+[![preview](https://img.youtube.com/vi/TOKEN/maxresdefault.jpg)](https://github.com/MatheusRamalho/im-here-app/blob/main/.github/preview.mp4)
 
 
 <br />
